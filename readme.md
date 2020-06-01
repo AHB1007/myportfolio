@@ -1,4 +1,4 @@
-# _My Portfolio
+# My Portfolio
 
 #### A brief description of myself and current projects
 
@@ -8,9 +8,9 @@
 
 ## Setup/Installation Requirements
 <ul>
-    <li>Go to the Github project repository<li>
-    <li>Download file as a zip file to extract OR clone file using .git URL.<li>
-    <li>Navigate to folder and open index.html<li>
+<li>Go to the Github project repository
+Download file as a zip file to extract OR clone file using .git URL.
+Navigate to folder and open index.html<li>
 
 ## Known Bugs
 No known bugs
