@@ -8,9 +8,7 @@
 
 ## Setup/Installation Requirements
 <ul>
-<li>Go to the Github project repository<li>
-<li>Download file as a zip file to extract OR clone file using .git URL.<li>
-<li>Navigate to folder and open index.html<li>
+<li>Go to the Github project repository<li> <li>Download file as a zip file to extract OR clone file using .git URL.<li> <li>Navigate to folder and open index.html<li>
 
 ## Known Bugs
 No known bugs
