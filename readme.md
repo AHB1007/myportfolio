@@ -1,16 +1,16 @@
-# _{My Portfolio}_
+# _My Portfolio
 
-#### _A brief description of myself and current projects
+#### A brief description of myself and current projects
 
-#### By _**Andrew Barron**
+#### By **Andrew Barron**
 
 ##### The purpose of this portfolio is to showcase a bit of who I am and what I am currently working on at Epicodus.
 
 ## Setup/Installation Requirements
-
-*_ Go to the Github project repository 
-*_ Download file as a zip file to extract OR clone file using .git URL.
-*_ Navigate to folder and open index.html
+<ul>
+    <li>Go to the Github project repository<li>
+    <li>Download file as a zip file to extract OR clone file using .git URL.<li>
+    <li>Navigate to folder and open index.html<li>
 
 ## Known Bugs
 No known bugs
